@@ -2,12 +2,6 @@
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
     "id": "https://github.com/Itsunobu/badge/blob/main/mizuma-reader-badge.json",
-    "recipient":
-    {
-        "type": "email",
-        "hashed": true,
-        "identity": "sha256$2439c199971e44a07babc5854f5a7fae04028f1c85f492a70bddfa9f55d54130"
-    },
     "badge": "https://github.com/Itsunobu/badge/blob/main/reader-badge.json",
     "verification":
     {
