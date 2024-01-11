@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "http://github.com/itsunobu/Itsunobu/badge/issuer-organization.json",
+    "id": "https://github.com/itsunobu/Itsunobu/badge/blob/main/issuer-organization.json",
     "type": "Issuer",
     "name": "MIZUMA IM",
     "url": "https://mizuma.co.jp"

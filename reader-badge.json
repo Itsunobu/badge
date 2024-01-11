@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.io/Itsunobu/badge/reader-badge.json",
+    "id": "https://github.io/Itsunobu/badge/blob/main/reader-badge.json",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of MIZUMA IM.",
@@ -8,5 +8,5 @@
     "criteria": "http://mizuma.co.jp/subscribe",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "https://github.io/Itsunobu/badge/issuer-organization.json"
+    "issuer": "https://github.io/Itsunobu/badge/blob/main/issuer-organization.json"
 }
